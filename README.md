@@ -24,3 +24,7 @@ A "zero-friction" automation designed specifically for the restaurant and hospit
 3. Generate a free API Key from Google AI Studio.
 4. Add your API Key in *Project Settings > Script Properties* under the variable `GEMINI_API_KEY`.
 5. Set up an Apps Script Trigger to run the function `On form submit`.
+## 📥 System Templates
+To easily replicate this project, you can clone the data capture form by clicking the link below:
+
+- [🔗 Make a copy of the Google Form (Frontend)](https://docs.google.com/forms/d/10XcVTz3v9tJ7VJaMJfCPXA9WQeHWodQBoRHsglBOtN0/copy)
