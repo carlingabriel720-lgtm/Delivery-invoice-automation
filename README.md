@@ -1,3 +1,7 @@
+<img width="2816" height="1536" alt="Gemini_Generated_Image_4wrlm64wrlm64wrl" src="https://github.com/user-attachments/assets/c0731722-ccff-4525-958f-aea4f4a8dfb8" />
+
+
+
 # 🧾 Automated Invoice & Receipt Capture System (Hospitality Operations)
 
 A "zero-friction" automation designed specifically for the restaurant and hospitality industry. This project eliminates administrative bottlenecks for **the team members receiving deliveries** by processing physical receipts and invoices for any category (food, alcohol, beverages, gas, or operational supplies) using AI, natively integrated into the Google Workspace ecosystem.
